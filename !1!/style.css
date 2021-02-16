@@ -1,0 +1,26 @@
+body{
+    color: black;
+    background-image: url("2.jpg");
+
+}
+div{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+li{
+    font-size: 25px;
+}
+p{
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+video{
+    color: rgb(0, 0, 0);
+}
